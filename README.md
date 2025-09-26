@@ -6,6 +6,9 @@ Cold Email Generator using Generative AI
 
 This project is a Cold Email Generator powered by Generative AI. It helps users quickly generate personalized, professional, and engaging cold emails tailored to different recipients. The goal is to save time, increase outreach efficiency, and improve response rates.
 
+<img width="1440" height="712" alt="Screenshot 2025-09-26 213631" src="https://github.com/user-attachments/assets/d869786c-3fb7-4d03-adc1-c73715615d48" />
+
+
 🛠️ How I Built This Project
 
 * Used the Groq Cloud API to access LLaMA (Large Language Model Meta AI) for natural language generation.
